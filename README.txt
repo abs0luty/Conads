@@ -1,0 +1,1 @@
+C implementation of Maybe and Either monads. Cool :3
